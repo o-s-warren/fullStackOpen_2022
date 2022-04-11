@@ -1,5 +1,5 @@
 # fullStackOpen_2022
-This is a repository containing coursework for the University of Helsinki Full Stack Open 2022 Course
+This is a repository containing coursework for the University of Helsinki's Full Stack Open 2022 Course. The course covers modern JavaScript-based web development, with a focus on building single page applications with ReactJS that use REST APIs built with Node.js. The course includes React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
 
 - [X] part0 [completed 10/4/2022]
 - [ ] part1
